@@ -99,6 +99,9 @@ class ProfCoursTest extends TestCase
             * Question 7 : Insérer les enregistrements suivantes dans la table cours
             *
             */
+            new Cours("IoT", "10", 1),
+            new Cours("IA", "12", 3),
+            new Cours("EDL", "5", 6),
 
         ];
         
